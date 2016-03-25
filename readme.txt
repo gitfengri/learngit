@@ -1,2 +1,3 @@
 git is a version conteol system.
-git is free software
+git is no free software
+
