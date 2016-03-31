@@ -1,0 +1,12 @@
+(dp1
+S'age'
+p2
+I30
+sS'score'
+p3
+I80
+sS'name'
+p4
+S'fengri'
+p5
+s.
